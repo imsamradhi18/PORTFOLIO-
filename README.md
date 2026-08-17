@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website!
 
-This project is an individual portfolio website created to showcase my profile, skills, education, projects, and other relevant information in a simple and professional way.
+This is an individual portfolio project created to present my academic background, interests, and personal information through a simple and user-friendly website.
 
 ## 🔗 Live Website
 
@@ -10,26 +10,22 @@ This project is an individual portfolio website created to showcase my profile, 
 
 ## 📌 About the Project
 
-The Personal Portfolio Website is a front-end web development project designed to present my information and work through a clean and user-friendly website.
+The Personal Portfolio Website is a front-end web development project designed to provide information about me and my academic journey in an organized and interactive way.
 
-The website is hosted using **GitHub Pages**, making it accessible online through a live URL.
+The website includes different sections for easy navigation and is deployed using GitHub Pages.
 
-## ✨ Features
+## ✨ Website Sections
 
-* Introduction
-* About Me section
-* Skills and abilities
-* Education details
-* Project showcase
-* Contact information
-* Clean and simple user interface
-* Responsive web design
+* 🏠 **Index** – Introduction and homepage
+* 🎓 **Academics** – Academic background and educational information
+* 🖼️ **Gallery** – Collection of images
+* 📩 **Contact** – Contact and communication information
 
 ## 🛠️ Technologies Used
 
-* **HTML5** – Structure and content of the website
-* **CSS3** – Styling, layout, and design
-* **GitHub Pages** – Website hosting and deployment
+* **HTML5** – Used to create the structure and content of the website
+* **CSS3** – Used for styling, layout, and visual design
+* **GitHub Pages** – Used to deploy and host the website
 
 ## 📂 Project Structure
 
@@ -37,12 +33,13 @@ The website is hosted using **GitHub Pages**, making it accessible online throug
 PORTFOLIO-/
 │
 ├── index.html
+├── academics.html
+├── gallery.html
+├── contact.html
 ├── style.css
 ├── images/
 └── README.md
 ```
-
-> The project structure may contain additional files or images used by the website.
 
 ## 🚀 How to Run Locally
 
@@ -54,20 +51,20 @@ git clone https://github.com/imsamradhi18/PORTFOLIO-.git
 
 2. Open the project folder.
 
-3. Open `index.html` in a web browser.
+3. Open `index.html` in any web browser.
 
 No additional installation or dependencies are required.
 
 ## 🌐 Deployment
 
-This website is deployed using **GitHub Pages**.
+The website is deployed using GitHub Pages.
 
-**Live URL:**
+**Live Website:**
 https://imsamradhi18.github.io/PORTFOLIO-/
 
 ## 🎯 Purpose
 
-The main purpose of this project is to build and deploy a personal portfolio website while applying the fundamentals of front-end web development using HTML and CSS.
+The purpose of this project is to create a personal portfolio website and demonstrate the practical use of HTML and CSS in developing and deploying a website.
 
 ## 👩‍💻 Author
 
@@ -75,6 +72,6 @@ The main purpose of this project is to build and deploy a personal portfolio web
 
 B.Tech Computer Science & Engineering
 
-## 📄 License
+## 📄 Project Type
 
-This project is created for educational and personal portfolio purposes.
+Individual Academic Project
